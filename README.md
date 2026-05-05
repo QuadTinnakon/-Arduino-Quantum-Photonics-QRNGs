@@ -21,3 +21,7 @@ TK Quad3D
 <img width="1519" height="785" alt="Image" src="https://github.com/user-attachments/assets/385f753b-1fbd-4b08-bd1a-19127eda996a" />
 
 <img width="4000" height="1848" alt="Image" src="https://github.com/user-attachments/assets/f529c1d5-218b-4f31-a503-86d48169bd4b" />
+
+Experimental results
+
+<img width="2524" height="1345" alt="Image" src="https://github.com/user-attachments/assets/a3e57592-0d9b-40df-a5c9-117c47127e58" />
