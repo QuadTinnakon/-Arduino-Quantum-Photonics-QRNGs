@@ -33,3 +33,9 @@ TK Quad3D
 Experimental results
 
 <img width="2524" height="1345" alt="Image" src="https://github.com/user-attachments/assets/a3e57592-0d9b-40df-a5c9-117c47127e58" />
+
+จุดตัดระหว่างฮาร์ดแวร์ที่เข้าถึงง่ายอย่าง Arduino กับความไม่แน่นอนที่เป็นพื้นฐานของกลศาสตร์ควอนตัมครับ การสร้าง 
+เครื่องกำเนิดตัวเลขสุ่มแบบควอนตัม (Quantum Random Number Generator หรือ QRNG) ถือเป็นโปรเจกต์ระดับ "Hello World"
+สำหรับสาขาโฟโตนิกส์ควอนตัม (Quantum Photonics) เลยก็ว่าได้
+ในขณะที่คอมพิวเตอร์ทั่วไปใช้ขั้นตอนวิธีแบบสุ่มเทียม (PRNG) ซึ่งจริงๆ แล้วเป็นการคำนวณแบบกำหนดผลลัพธ์ได้ (Deterministic) 
+แต่ QRNG จะอาศัยคุณสมบัติ การซ้อนทับ (Superposition) และ ความไม่แน่นอน (Indeterminacy) ของโฟตอน
