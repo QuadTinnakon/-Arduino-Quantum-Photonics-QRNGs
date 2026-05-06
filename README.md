@@ -1,4 +1,4 @@
-กลศาสตร์ควอนตัม เครื่องกำเนิดตัวเลขสุ่มแบบควอนตัม (Quantum Random Number Generator หรือ QRNG) สาขาโฟโตนิกส์ควอนตัม (Quantum Photonics)
+กลศาสตร์ควอนตัม เครื่องกำเนิดตัวเลขสุ่มแบบควอนตัม (Quantum Random Number Generator หรือ QRNG) โฟโตนิกส์ควอนตัม (Quantum Photonics)
 =========================
 /*
  Arduino Quantum Photonics Quantum Random Number Generators (QRNGs)
@@ -36,7 +36,7 @@ Experimental results
 
 <img width="2524" height="1345" alt="Image" src="https://github.com/user-attachments/assets/a3e57592-0d9b-40df-a5c9-117c47127e58" />
 
-กลศาสตร์ควอนตัม เครื่องกำเนิดตัวเลขสุ่มแบบควอนตัม (Quantum Random Number Generator หรือ QRNG) สาขาโฟโตนิกส์ควอนตัม (Quantum Photonics)
+กลศาสตร์ควอนตัม เครื่องกำเนิดตัวเลขสุ่มแบบควอนตัม (Quantum Random Number Generator หรือ QRNG) โฟโตนิกส์ควอนตัม (Quantum Photonics)
 =========================
 
 จุดตัดระหว่างฮาร์ดแวร์ที่เข้าถึงง่ายอย่าง Arduino กับความไม่แน่นอนที่เป็นพื้นฐานของกลศาสตร์ควอนตัม การสร้าง 
