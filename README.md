@@ -1,6 +1,6 @@
 กลศาสตร์ควอนตัม เครื่องกำเนิดตัวเลขสุ่มแบบควอนตัม (Quantum Random Number Generator หรือ QRNG) โฟโตนิกส์ควอนตัม (Quantum Photonics)
 =========================
-/*
+
  Arduino Quantum Photonics Quantum Random Number Generators (QRNGs)
  Arduino 1.6.9
  
@@ -25,7 +25,7 @@ QuantumPhotonicsVoltageV1 = 4 พค 2569
 
 TK Quad3D 
   http://quad3d-tin.lnwshop.com/
-*/
+
 <img width="4000" height="1848" alt="Image" src="https://github.com/user-attachments/assets/ed3cdd53-cbbf-4304-8619-a3154a8c6264" />
 
 <img width="1519" height="785" alt="Image" src="https://github.com/user-attachments/assets/385f753b-1fbd-4b08-bd1a-19127eda996a" />
